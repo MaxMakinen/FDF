@@ -26,18 +26,7 @@ This project helped me understand that getting the job done is more important th
 and I can always come back and learn more when I have the time.
 
 An example of input we might receive:
-
-0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
-0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
-0  0 10 10  0  0 10 10  0  0  0 10 10 10 10 10  0  0  0
-0  0 10 10  0  0 10 10  0  0  0  0  0  0  0 10 10  0  0
-0  0 10 10  0  0 10 10  0  0  0  0  0  0  0 10 10  0  0
-0  0 10 10 10 10 10 10  0  0  0  0 10 10 10 10  0  0  0
-0  0  0 10 10 10 10 10  0  0  0 10 10  0  0  0  0  0  0
-0  0  0  0  0  0 10 10  0  0  0 10 10  0  0  0  0  0  0
-0  0  0  0  0  0 10 10  0  0  0 10 10 10 10 10 10  0  0
-0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
-0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+![alt text](https://github.com/MaxMakinen/FDF_42/blob/main/.images/input.png)
 
 The aforementioned input rendered from a frontal 3d perspective:
 ![alt text](https://github.com/MaxMakinen/FDF_42/blob/main/.images/front.png)

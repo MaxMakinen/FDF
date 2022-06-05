@@ -26,13 +26,17 @@ This project helped me understand that getting the job done is more important th
 and I can always come back and learn more when I have the time.
 
 An example of input we might receive:
+
 ![alt text](https://github.com/MaxMakinen/FDF_42/blob/main/.images/input.png)
 
 The aforementioned input rendered from a frontal 3d perspective:
+
 ![alt text](https://github.com/MaxMakinen/FDF_42/blob/main/.images/front.png)
 
 The aforementioned input rendered in an angle with 3d projection:
+
 ![alt text](https://github.com/MaxMakinen/FDF_42/blob/main/.images/persp_3d.png)
 
 the aforementioned input rendered in a more orthogonal projection:
+
 ![alt text](https://github.com/MaxMakinen/FDF_42/blob/main/.images/persp_ortho.png)
